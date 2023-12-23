@@ -49,7 +49,7 @@ const Navbar7 = () => {
           <div className="flex-grow md:w-1/2 mx-4 md:mx-0">
             <input
               type="text"
-              className="w-full rounded-full px-4 py-2 bg-gray-700 text-white focus:outline-none"
+              className="w-full rounded-full px-4 py-2 mx-2 bg-gray-100 text-white focus:outline-none"
               placeholder="Search..."
             />
           </div>
