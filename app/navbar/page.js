@@ -5,6 +5,8 @@ import Navbar5 from "./componentsnav/Navbar5";
 import Navbar6 from "./componentsnav/Navbar6";
 import Navbar7 from "./componentsnav/Navbar7";
 import NavbarQucikAction from "./componentsnav/NavbarQuickAction";
+import YingKiongNavbar1 from "./componentsnav/YingKiongNavbar";
+
 
 
 
@@ -20,6 +22,7 @@ const Navbar=()=>{
         <Navbar5/>
         <Navbar6/>
         <Navbar7/>
+        <YingKiongNavbar1/>
         </>
     )
 }

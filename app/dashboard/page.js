@@ -12,8 +12,8 @@ const Dashboard=()=>{
  
         <Dashboard1/>
         <Dashboard2/>
-        <Dashboard3/>
-        <Dashboard4/>
+        {/* <Dashboard3/>
+        <Dashboard4/> */}
 
         </>
     )
