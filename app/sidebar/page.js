@@ -11,10 +11,10 @@ const SidebarPage = () => {
     <>
     {/* <BrandSidebarwithheader/> */}
     {/* <Darksidebarwithheader/> */}
-    {/* <Lightsidebarwithheader/> */}
+    <Lightsidebarwithheader/>
     {/* <Darksidebar/> */}
     {/* <Lightsidebarwithconstrainedcontentarea/> */}
-    <Lightsidebar/>
+    {/* <Lightsidebar/> */}
     </>
     
   )
